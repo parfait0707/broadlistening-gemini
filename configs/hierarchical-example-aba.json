@@ -1,0 +1,15 @@
+{
+    "name": "Challenges faced by Rheumatology treatment and rheumatology patients",
+    "question": "アバタセプトが抱える課題と、リウマチ治療の課題、そしてアバタセプトを処方される患者が抱える不安・不満・要望は何か？",
+    "input": "241015_ABA",
+    "model": "gpt-4o",
+    "extraction": {
+      "workers": 3,
+      "limit": 200
+    },
+    "hierarchical_clustering": {
+      "cluster_nums": [3, 6, 12, 24]
+    },
+    "intro": "このAI生成レポートは、MAプライマリーチームが実施したアバタセプトに関する医師へのヒアリングデータに基づいています。"
+  }
+

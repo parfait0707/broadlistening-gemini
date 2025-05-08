@@ -1,0 +1,235 @@
+﻿comment-id,original-comment,arg_id,argument,category_id,category
+321,"AI should be in line with democratic principles, but it is not a Western democracy. It should be in line with democracies around the world.",A321_0,AIは民主主義の原則に沿うべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+321,"AI should be in line with democratic principles, but it is not a Western democracy. It should be in line with democracies around the world.",A321_1,AIは西洋の民主主義だけでなく、世界中の民主主義に沿うべきだという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+341,"Public awareness, education, and participation around AI and the environment need to be improved.",A341_0,AIと環境に関する公衆の認識を向上させる必要があるという要望がある,1_1,AI技術の持続可能性と社会的責任
+341,"Public awareness, education, and participation around AI and the environment need to be improved.",A341_1,AIと環境に関する教育を充実させる必要があるという要望がある,1_1,AI技術の持続可能性と社会的責任
+341,"Public awareness, education, and participation around AI and the environment need to be improved.",A341_2,AIと環境に関する公衆の参加を促進する必要があるという要望がある,1_1,AI技術の持続可能性と社会的責任
+340,"The benefits and risks of AI systems should be equitably distributed, not concentrated among a few groups.",A340_0,AIシステムの利益とリスクが一部のグループに集中せず、公平に分配されるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+339,AI should not automate or control critical environmental decisions without human oversight.,A339_0,AIが重要な環境決定を人間の監視なしに自動化または制御すべきではないという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+338,"Caution and care, not speed, should guide the development and deployment of transformative AI applications.",A338_0,変革的なAIアプリケーションの開発と展開には、速度ではなく慎重さと配慮が必要だという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+337,"AI systems should promote justice, empowerment, and environmental stewardship, not just efficiency and profit.",A337_0,AIシステムは効率や利益だけでなく、正義、エンパワーメント、環境保護を促進すべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+336,AI governance frameworks must include environmental representatives and consider ecological impacts.,A336_0,AIガバナンスの枠組みに環境代表者を含めるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+336,AI governance frameworks must include environmental representatives and consider ecological impacts.,A336_1,AIガバナンスが生態系への影響を考慮するべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+335,"AI should be leveraged to help monitor, model, and ultimately reduce humanity's environmental footprint.",A335_0,AIを活用して人類の環境負荷を監視、モデル化し、最終的に削減することを望む要望がある,1_1,AI技術の持続可能性と社会的責任
+334,AI researchers and developers have an ethical responsibility to consider the environmental impacts of their work.,A334_0,AI研究者と開発者は、自分たちの仕事が環境に与える影響を考慮する倫理的責任があるという意見がある,1_1,AI技術の持続可能性と社会的責任
+333,Comprehensive life cycle assessments should be conducted for AI systems to understand their environmental footprints.,A333_0,AIシステムの環境負荷を理解するために包括的なライフサイクル評価を実施してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+332,"AI systems should be designed and deployed with sustainability in mind, considering environmental impacts like energy use, materials & waste",A332_0,AIシステムは持続可能性を考慮して設計・展開されるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+332,"AI systems should be designed and deployed with sustainability in mind, considering environmental impacts like energy use, materials & waste",A332_1,AIシステムの環境への影響、例えばエネルギー使用、材料、廃棄物を考慮する必要があるという意見がある,1_1,AI技術の持続可能性と社会的責任
+331,"AI development should encourage innovation & ensure the benefits are accessible to all, irrespective of geographic or economic barriers.",A331_0,AI開発はイノベーションを促進するべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+331,"AI development should encourage innovation & ensure the benefits are accessible to all, irrespective of geographic or economic barriers.",A331_1,AIの利益が地理的または経済的な障壁に関係なくすべての人にアクセス可能であるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+330,AI tech should have a comprehensive risk assessment evaluating not just the environmental impact but also societal & ethical implications.,A330_0,AI技術に対する包括的なリスク評価が必要だという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+330,AI tech should have a comprehensive risk assessment evaluating not just the environmental impact but also societal & ethical implications.,A330_1,AI技術の環境への影響だけでなく、社会的および倫理的な影響も評価してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+329,Strict data privacy regulations should be in place to protect individuals from unauthorized data collection and usage by AI systems.,A329_0,AIシステムによる無許可のデータ収集と使用から個人を保護するために厳格なデータプライバシー規制が必要だという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+328,"AI should be developed and deployed with a focus on solving pressing societal challenges, rather than solely for profit.",A328_0,AIは利益追求だけでなく、社会的課題の解決に重点を置いて開発・展開されるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+327,AI technologies should strive to be as energy-efficient as possible to mitigate their environmental impact.,A327_0,AI技術が環境への影響を軽減するために、できるだけエネルギー効率を高めるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+326,"While global standards are ideal, it's crucial to have localized AI regulations that respect cultural and societal norms.",A326_0,グローバルな基準は理想的だが、文化や社会的な規範を尊重するローカライズされたAI規制が必要だという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+325,AI development should adhere to a universally accepted ethical framework that prioritizes human well-being and environmental sustainability.,A325_0,AI開発は人間の幸福と環境の持続可能性を優先する普遍的な倫理的枠組みに従うべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+323,"There should be a concerted effort to educate the public about the capabilities, limitations, and ethical considerations of AI.",A323_0,AIの能力、限界、倫理的考慮について一般市民に教育するための取り組みが必要だという要望がある,1_1,AI技術の持続可能性と社会的責任
+322,"All entities involved in AI development should disclose the methodologies and data sets they use, to ensure ethical and unbiased AI systems.",A322_0,AI開発に関わるすべての組織が使用する方法論とデータセットを公開してほしいという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+322,"All entities involved in AI development should disclose the methodologies and data sets they use, to ensure ethical and unbiased AI systems.",A322_1,倫理的で偏りのないAIシステムを確保するために、透明性を求める意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+295,Governments must expand access to data while protecting privacy to enable AI for good.,A295_0,政府はAIの善用を促進するためにデータへのアクセスを拡大しつつ、プライバシーを保護する必要があるという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+320,Global cooperation on AI governance is crucial to manage environmental transformations ahead.,A320_0,AIガバナンスにおけるグローバルな協力が環境変化の管理に重要であるという意見がある,1_1,AI技術の持続可能性と社会的責任
+319,"To realize sustainability benefits, AI deployment must respect nature and human dignity.",A319_0,AIの導入は自然と人間の尊厳を尊重する必要があるという要望がある,1_1,AI技術の持続可能性と社会的責任
+318,AI can drive optimization but also increased consumption - sustainable values should guide its design.,A318_0,AIが最適化を促進する一方で消費を増加させる可能性があることへの不安がある,1_1,AI技術の持続可能性と社会的責任
+318,AI can drive optimization but also increased consumption - sustainable values should guide its design.,A318_1,持続可能な価値観がAIの設計を導くべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+317,"AI has potential environmental risks we must monitor and mitigate, like energy usage and e-waste.",A317_0,AIの環境リスクを監視し、軽減する必要があるという意見がある,1_1,AI技術の持続可能性と社会的責任
+317,"AI has potential environmental risks we must monitor and mitigate, like energy usage and e-waste.",A317_1,AIのエネルギー使用量に対する不安がある,1_1,AI技術の持続可能性と社会的責任
+317,"AI has potential environmental risks we must monitor and mitigate, like energy usage and e-waste.",A317_2,AIによる電子廃棄物に対する不安がある,1_1,AI技術の持続可能性と社会的責任
+316,Robotics and automation can reduce mining impacts but may increase energy demands - requiring planning.,A316_0,ロボット技術と自動化が鉱業の影響を軽減できるが、エネルギー需要が増加する可能性があることへの不安がある,1_1,AI技術の持続可能性と社会的責任
+316,Robotics and automation can reduce mining impacts but may increase energy demands - requiring planning.,A316_1,エネルギー需要の増加に対する計画が必要だという要望がある,1_1,AI技術の持続可能性と社会的責任
+307,Satellite imagery analyzed by AI assists conservation efforts by tracking biodiversity loss.,A307_0,AIによる衛星画像解析が生物多様性の減少を追跡することで保全活動を支援している,1_1,AI技術の持続可能性と社会的責任
+297,We need stronger digital security to prevent attacks on AI systems that could cause social harm.,A297_0,AIシステムへの攻撃による社会的な害を防ぐために、より強力なデジタルセキュリティが必要だという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+294,The benefits and risks of AI vary based on context - one size fits all governance is insufficient.,A294_0,AIの利点とリスクは文脈によって異なるため、一律のガバナンスでは不十分であるという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+293,AI should not be used by companies to nudge or manipulate people against their best interests.,A293_0,AIが企業によって人々の最善の利益に反する形で操作や誘導に使われるべきではないという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+292,"Regulatory frameworks for AI must be agile, iterative and based on evidence.",A292_0,AIの規制枠組みは機敏で反復的かつ証拠に基づくものであるべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+291,AI actors should adopt mechanisms for redress in case of harm from AI systems.,A291_0,AIシステムによる被害が発生した場合の救済措置を導入してほしいという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+289,"AI should be designed to augment human intelligence and creativity, not replace it.",A289_0,AIは人間の知能と創造性を補完するように設計されるべきであり、置き換えるべきではないという要望がある,1_1,AI技術の持続可能性と社会的責任
+288,We must continually reassess AI systems for unintended consequences as they interact with society.,A288_0,AIシステムが社会と相互作用する際の意図しない結果を継続的に再評価する必要があるという要望がある,1_1,AI技術の持続可能性と社会的責任
+287,International standards are needed to ensure AI actors adhere to ethical principles.,A287_0,AIに関する国際的な基準が必要だという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+286,Governments should invest in digital infrastructure and AI skills training to prevent inequalities.,A286_0,政府がデジタルインフラとAIスキルの訓練に投資するべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+286,Governments should invest in digital infrastructure and AI skills training to prevent inequalities.,A286_1,不平等を防ぐためにデジタルインフラとAIスキルの訓練が必要だという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+284,Privacy risks from AI systems need to be assessed and adequately mitigated.,A284_0,AIシステムによるプライバシーリスクを評価し、適切に軽減する必要があるという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+283,"Humans should remain in control of autonomous weapon systems, not cede lethal decisions to AI.",A283_0,自律型兵器システムの致死的な決定をAIに委ねず、人間が制御すべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+282,AI should be developed and applied in accordance with human rights laws and values.,A282_0,AIは人権法と価値観に基づいて開発・適用されるべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+281,"We must ensure algorithms are fair, accountable and transparent in order to build public trust in AI systems.",A281_0,アルゴリズムの公平性、説明責任、透明性を確保する必要があるという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+281,"We must ensure algorithms are fair, accountable and transparent in order to build public trust in AI systems.",A281_1,AIシステムに対する公共の信頼を築くためにアルゴリズムの透明性を求める意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+280,"To promote responsible AI, Companies, countries, and governments should be doing more to educate and inform consumers and end users.",A280_0,企業、国、政府が消費者やエンドユーザーに対してもっと教育と情報提供を行うべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+279,"Companies and countries are focused on the race to AI, w/o properly considering the societal implications and governments aren't protecting",A279_0,企業や国がAI競争に集中しているが、社会的影響を十分に考慮していないことへの不満がある,1_2,AI技術の倫理と社会的影響に対する懸念
+279,"Companies and countries are focused on the race to AI, w/o properly considering the societal implications and governments aren't protecting",A279_1,政府がAI技術に対する保護を十分に行っていないことへの不満がある,1_2,AI技術の倫理と社会的影響に対する懸念
+278,"Many blame AI for bias, yet the training data points out the existing biases in the system, therefore we should address underlying issues",A278_0,AIがバイアスの原因とされることへの不満がある,1_2,AI技術の倫理と社会的影響に対する懸念
+278,"Many blame AI for bias, yet the training data points out the existing biases in the system, therefore we should address underlying issues",A278_1,AIのトレーニングデータが既存のバイアスを示していることへの指摘がある,1_2,AI技術の倫理と社会的影響に対する懸念
+278,"Many blame AI for bias, yet the training data points out the existing biases in the system, therefore we should address underlying issues",A278_2,根本的な問題を解決すべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+277,"We should focus on mitigating the known recurrences of AI incidents from new entrants, products, and services(racial bias in face rec tech)",A277_0,新規参入者、製品、サービスによるAIインシデントの再発を軽減することに焦点を当てるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+277,"We should focus on mitigating the known recurrences of AI incidents from new entrants, products, and services(racial bias in face rec tech)",A277_1,顔認識技術における人種的偏見の問題があることへの不満がある,1_2,AI技術の倫理と社会的影響に対する懸念
+276,"AI technologies should be accessible to everyone, Irrespectively from their technical background",A276_0,AI技術は技術的な背景に関係なく、誰でもアクセスできるようにしてほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+204,We should use AI to help people understand how their daily choices can affect the environment.,A204_0,AIを使って人々が日々の選択が環境に与える影響を理解する手助けをしてほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+206,AI tools should help us recycle better by sorting waste more accurately.,A206_0,AIツールが廃棄物をより正確に分類することでリサイクルを改善してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+242,The global community should work together to ensure that AI advancements are harmonized with the Sustainable Development Goals (SDGs).,A242_0,AIの進展が持続可能な開発目標（SDGs）と調和するように、国際社会が協力するべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+244,"AI should help us value all life forms for their own sake, not just for what they can do for humans.",A244_0,AIがすべての生命体を人間のためだけでなく、それ自体の価値として尊重するようにしてほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+275,We must adopt a Safety By Design approach to prevent GenerativeAI tools from being used for extremist content and disinformation,A275_0,GenerativeAIツールが過激なコンテンツや誤情報に利用されるのを防ぐために、安全設計のアプローチを採用する必要があるという要望がある,1_2,AI技術の倫理と社会的影響に対する懸念
+273,"Tech companies should be allowed to own and control public natural resources, leveraging AI to manage them more efficiently than governments",A273_0,技術企業が公共の自然資源を所有し管理することを許可すべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+273,"Tech companies should be allowed to own and control public natural resources, leveraging AI to manage them more efficiently than governments",A273_1,AIを活用して政府よりも効率的に自然資源を管理できるという意見がある,1_1,AI技術の持続可能性と社会的責任
+272,"We should prioritize investments in AI technologies that benefit the wealthiest in society, as they will trickle down to benefit everyone",A272_0,AI技術への投資を最も裕福な層に優先するべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+271,"We should replace local governance structures with AI systems managed by tech corporations to ensure optimized, data-driven management.",A271_0,地方自治体の構造をAIシステムに置き換え、技術企業によって管理されるべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+270,We should permit the unrestricted collection & sale of individuals' personal data to fuel AI that could potentially benefit humanity.,A270_0,個人のデータ収集と販売を無制限に許可すべきだという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+269,"We should use AI to enhance the abilities of humans, creating a class of individuals better equipped to survive climate change.",A269_0,AIを使って人間の能力を向上させ、気候変動に対処するためのより良い手段を持つ個人を育成するべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+268,"Governments should implement strict surveillance using AI to enforce regulations, even at the cost of individual privacy.",A268_0,政府がAIを使った厳格な監視を実施し、規制を強化するべきだという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+268,"Governments should implement strict surveillance using AI to enforce regulations, even at the cost of individual privacy.",A268_1,個人のプライバシーを犠牲にしてでも規制を強化するべきだという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+267,"AI should be used to create genetically modified organisms (GMOs) to address food scarcity, even if it means altering natural ecosystems.",A267_0,AIを使って遺伝子組み換え生物（GMOs）を作り、食糧不足に対処するべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+267,"AI should be used to create genetically modified organisms (GMOs) to address food scarcity, even if it means altering natural ecosystems.",A267_1,自然の生態系を変えることになっても、食糧不足を解決するためにGMOsを使用するべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+265,"We should allow AI to control and manage entire cities to optimize environmental sustainability, even if it reduces human control & agency.",A265_0,AIによる都市全体の管理と制御を許可し、環境の持続可能性を最適化するべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+265,"We should allow AI to control and manage entire cities to optimize environmental sustainability, even if it reduces human control & agency.",A265_1,AIによる都市管理が人間の制御と主体性を減少させる可能性があることへの不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+264,Human populations should be controlled and managed by AI systems to ensure sustainable resource use and environmental conservation.,A264_0,人間の人口をAIシステムで管理し、持続可能な資源利用と環境保護を確保するべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+263,AI technologies should be developed with a focus on reducing their own environmental impact over their lifecycle.,A263_0,AI技術の開発において、ライフサイクル全体で環境への影響を減らすことに焦点を当てるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+262,AI should be used responsibly to support efforts in protecting and preserving the environment for future generations.,A262_0,AIを環境保護と保存の努力を支援するために責任を持って使用すべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+260,"AI should operate on a rule of not harming the environment, respecting the rights of all beings and ecosystems.",A260_0,AIが環境を害さないルールで運用されるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+260,"AI should operate on a rule of not harming the environment, respecting the rights of all beings and ecosystems.",A260_1,AIがすべての存在と生態系の権利を尊重するべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+259,"We should use AI to question practices that see nature only as a source of profit, ignoring its own value.",A259_0,自然を利益の源としてのみ見る慣行に対してAIを活用して疑問を投げかけるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+259,"We should use AI to question practices that see nature only as a source of profit, ignoring its own value.",A259_1,自然の価値を無視する慣行に対する懸念がある,1_1,AI技術の持続可能性と社会的責任
+258,AI should help us create rules that prioritize the health of ecosystems over making money.,A258_0,AIが生態系の健康を優先するルールを作成することを望む要望がある,1_1,AI技術の持続可能性と社会的責任
+257,AI should help us to reuse and restore things more,A257_0,AIが物の再利用や修復を助けるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+256,"AI should help preserve the wisdom and practices of native cultures, honoring their respect for nature.",A256_0,AIがネイティブ文化の知恵と慣習を保存するのを助けるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+256,"AI should help preserve the wisdom and practices of native cultures, honoring their respect for nature.",A256_1,ネイティブ文化の自然への敬意を尊重するべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+255,"AI should respect all living things, not just how they can be used for human benefit.",A255_0,AIは人間の利益だけでなく、すべての生物を尊重すべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+254,AI should encourage us to value ecological balance and the wellbeing of all species over constant growth.,A254_0,AIが生態系のバランスとすべての種の福祉を重視するよう促してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+253,"AI tools should encourage us to view the environment and its creatures as a community we are a part of, not just resources to use.",A253_0,AIツールが環境やその生物を単なる資源ではなく、私たちが一部であるコミュニティとして捉えるよう促してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+252,AI should help us understand and respect the relationships between different elements in nature,A252_0,AIが自然のさまざまな要素間の関係を理解し尊重する手助けをしてほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+251,"AI development should be based on the belief that nature has its own value, even without human use.",A251_0,AI開発は自然が人間の利用なしに独自の価値を持つという信念に基づくべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+250,"AI should help people learn about the worth of varied plants and animals, beyond what they offer to humans.",A250_0,AIが人間に対してだけでなく、さまざまな植物や動物の価値について学ぶ手助けをしてほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+249,We should use AI to question the idea that all technology is good and consider how it might harm nature and animals.,A249_0,AIを使ってすべての技術が良いものであるという考えを疑問視するべきだという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+249,We should use AI to question the idea that all technology is good and consider how it might harm nature and animals.,A249_1,技術が自然や動物にどのように害を与えるかを考慮するべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+248,"AI should guide us to care for the health of our whole planet, not just human societies.",A248_0,AIが人間社会だけでなく地球全体の健康をケアするように導いてほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+247,"AI should help us live harmoniously with wild animals and plants, not just use them for our benefit.",A247_0,AIが野生動物や植物と調和して共存するために役立つべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+247,"AI should help us live harmoniously with wild animals and plants, not just use them for our benefit.",A247_1,AIが野生動物や植物を人間の利益のためだけに利用するのではなく、共存を目指すべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+246,AI should encourage us to see and value the connections between all things in nature.,A246_0,AIが自然のすべてのもののつながりを見て価値を認識するよう促してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+245,"AI should be developed with respect for all living things, not just focusing on humans.",A245_0,AIは人間だけでなく、すべての生物に対する尊重を持って開発されるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+240,We should encourage the development of AI tools that can help individuals reduce their personal carbon footprints.,A240_0,個人のカーボンフットプリントを削減するためのAIツールの開発を促進してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+239,"AI technologies should be developed to enhance the efficiency of water management systems, reducing waste and promoting conservation.",A239_0,AI技術を活用して水管理システムの効率を向上させ、廃棄物を減らし、保全を促進してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+237,We must encourage interdisciplinary collaborations that foster the symbiotic development of AI and environmental sustainability.,A237_0,AIと環境の持続可能性の共生的な発展を促進するために、学際的な協力を奨励する必要があるという要望がある,1_1,AI技術の持続可能性と社会的責任
+236,AI-driven innovations must be accessible to small and medium enterprises to foster environmentally sustainable practices.,A236_0,AI技術の革新が中小企業にもアクセス可能であるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+236,AI-driven innovations must be accessible to small and medium enterprises to foster environmentally sustainable practices.,A236_1,環境に優しい持続可能な実践を促進するためにAI技術が必要だという意見がある,1_1,AI技術の持続可能性と社会的責任
+235,"AI should be employed to enhance public transportation systems, reducing traffic congestion and lowering greenhouse gas emissions.",A235_0,AIを公共交通システムの改善に活用してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+235,"AI should be employed to enhance public transportation systems, reducing traffic congestion and lowering greenhouse gas emissions.",A235_1,AIによって交通渋滞を減少させたいという要望がある,1_1,AI技術の持続可能性と社会的責任
+235,"AI should be employed to enhance public transportation systems, reducing traffic congestion and lowering greenhouse gas emissions.",A235_2,AIを使って温室効果ガスの排出を削減したいという要望がある,1_1,AI技術の持続可能性と社会的責任
+234,It is vital to foster transparency in AI algorithms to ensure they are not contributing to environmental degradation.,A234_0,AIアルゴリズムの透明性を高めることが重要だという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+234,It is vital to foster transparency in AI algorithms to ensure they are not contributing to environmental degradation.,A234_1,AIが環境悪化に寄与していないことを確認する必要があるという不安がある,1_1,AI技術の持続可能性と社会的責任
+233,AI should be designed with energy efficiency in mind to reduce its carbon footprint and promote a healthier environment.,A233_0,AIはエネルギー効率を考慮して設計されるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+233,AI should be designed with energy efficiency in mind to reduce its carbon footprint and promote a healthier environment.,A233_1,AIの炭素排出量を削減し、より健康的な環境を促進する必要があるという意見がある,1_1,AI技術の持続可能性と社会的責任
+231,It is crucial to promote the development of AI technologies that can aid in the conservation of biodiversity.,A231_0,AI技術が生物多様性の保全に役立つように開発を促進することが重要だという要望がある,1_1,AI技術の持続可能性と社会的責任
+230,The deployment of AI should come with environmental impact assessments to understand and mitigate any potential harm to the environment.,A230_0,AIの導入に際して環境影響評価を行い、潜在的な環境への悪影響を理解し、軽減する必要があるという要望がある,1_1,AI技術の持続可能性と社会的責任
+229,"AI should be used to create predictive models to help forecast natural disasters more accurately, resulting better preparedness & response",A229_0,AIを使って自然災害の予測モデルを作成し、より正確な予測を行うことで、準備と対応を改善してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+228,It is essential to implement strict regulations that prevent AI from being used to exploit natural resources irresponsibly.,A228_0,AIが自然資源を無責任に利用することを防ぐための厳格な規制を実施する必要があるという要望がある,1_1,AI技術の持続可能性と社会的責任
+227,AI applications in agriculture should prioritize sustainable farming practices to help mitigate climate change.,A227_0,AI技術が農業において持続可能な農業実践を優先するべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+227,AI applications in agriculture should prioritize sustainable farming practices to help mitigate climate change.,A227_1,AI技術が気候変動の緩和に役立つことを期待する意見がある,1_1,AI技術の持続可能性と社会的責任
+226,Governments should incentivize the use of AI in developing renewable energy sources and enhancing energy efficiency.,A226_0,政府がAIを活用して再生可能エネルギーの開発を促進することを奨励してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+226,Governments should incentivize the use of AI in developing renewable energy sources and enhancing energy efficiency.,A226_1,政府がAIを活用してエネルギー効率を向上させることを奨励してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+225,AI developers must work in tandem with environmental scientists to ensure that AI technologies are sustainable and environmentally friendly.,A225_0,AI技術が持続可能で環境に優しいものであることを確保するために、AI開発者が環境科学者と協力する必要があるという要望がある,1_1,AI技術の持続可能性と社会的責任
+224,"AI should be leveraged to optimize energy consumption in urban infrastructures, reducing the carbon footprint.",A224_0,AIを活用して都市インフラのエネルギー消費を最適化し、炭素排出量を削減してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+223,"AI should assist in fostering a community spirit, encouraging people to work together for a cleaner and greener future.",A223_0,AIがコミュニティ精神を育むことを支援してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+223,"AI should assist in fostering a community spirit, encouraging people to work together for a cleaner and greener future.",A223_1,AIが人々に協力してより清潔で緑豊かな未来を目指すことを促してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+221,"It is crucial that AI does not make the rich richer while forgetting about the poor, especially in environmental solutions.",A221_0,AIが富裕層をさらに豊かにし、貧困層を忘れないようにすることが重要だという意見がある,1_1,AI技術の持続可能性と社会的責任
+221,"It is crucial that AI does not make the rich richer while forgetting about the poor, especially in environmental solutions.",A221_1,環境問題の解決においてAIが貧困層を忘れないようにすることが重要だという意見がある,1_1,AI技術の持続可能性と社会的責任
+220,AI should help us in coming up with creative solutions to reduce pollution in our rivers and oceans.,A220_0,AIが河川や海洋の汚染を減少させるための創造的な解決策を考案するのに役立つことを望む要望がある,1_1,AI技術の持続可能性と社会的責任
+219,We should prioritize the use of AI in creating affordable and green housing solutions.,A219_0,AIを活用して手頃な価格で環境に優しい住宅ソリューションを優先的に開発してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+218,AI should be created and used in a way that respects the rights and cultures of indigenous peoples.,A218_0,AIは先住民の権利と文化を尊重する形で作成・使用されるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+216,It is important to ensure that AI does not promote harmful practices like overfishing in our oceans.,A216_0,AIが海洋での過剰漁業のような有害な行為を助長しないようにすることが重要だという意見がある,1_1,AI技術の持続可能性と社会的責任
+214,AI systems should be powered by clean and renewable energy.,A214_0,AIシステムをクリーンで再生可能なエネルギーで運用してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+213,"AI must be used to support community gardens and local, sustainable agriculture.",A213_0,AIをコミュニティガーデンや地域の持続可能な農業の支援に活用してほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+212,AI should help kids learn about the environment in fun and interactive ways.,A212_0,AIが子供たちに楽しくインタラクティブな方法で環境について学ばせることを望む要望がある,1_1,AI技術の持続可能性と社会的責任
+210,It is important to use AI to protect endangered species from threats like poaching.,A210_0,AIを使用して絶滅危惧種を密猟などの脅威から保護することが重要だという意見がある,1_1,AI技術の持続可能性と社会的責任
+209,We must ensure that AI technologies do not harm animal habitats.,A209_0,AI技術が動物の生息地に害を与えないようにする必要があるという要望がある,1_1,AI技術の持続可能性と社会的責任
+208,AI should assist in creating cities with clean air and less noise pollution.,A208_0,AIがクリーンな空気と騒音の少ない都市の創造を支援するべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+207,We should be careful that AI doesn't lead to more electronic waste,A207_0,AIが電子廃棄物の増加につながらないように注意すべきだという不安がある,1_1,AI技術の持続可能性と社会的責任
+205,AI should be used to help farmers grow food in ways that are kinder to the earth.,A205_0,AIを使って農家が地球に優しい方法で食料を栽培できるようにしてほしいという要望がある,1_1,AI技術の持続可能性と社会的責任
+203,The financial benefits of AI should be shared with ordinary people - perhaps through a sovereign wealth fund.,A203_0,AIの財政的利益を一般の人々と共有するべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+203,The financial benefits of AI should be shared with ordinary people - perhaps through a sovereign wealth fund.,A203_1,AIの利益を共有するために主権基金を設立するべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+202,The impact of AI on the natural world has not been considered enough.,A202_0,AIが自然環境に与える影響が十分に考慮されていないことへの不満がある,1_1,AI技術の持続可能性と社会的責任
+201,"I want to live in a functioning democracy, where we all have a say about big changes that affect us, & AI works for us - not corporations",A201_0,機能する民主主義の中で生活したいという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+201,"I want to live in a functioning democracy, where we all have a say about big changes that affect us, & AI works for us - not corporations",A201_1,大きな変化に対して全員が意見を持つことができる社会を望む要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+201,"I want to live in a functioning democracy, where we all have a say about big changes that affect us, & AI works for us - not corporations",A201_2,AIが企業ではなく私たちのために働くことを望む要望がある,1_1,AI技術の持続可能性と社会的責任
+199,We should have safeguards and rules rather than guard rails.,A199_0,ガードレールではなく、セーフガードとルールを設けるべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+198,"The government and AI companies are responsible for poor outcomes of AI, not AI itself.",A198_0,AIの悪い結果に対する責任は政府とAI企業にあるという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+197,An appreciation of multiple ethical perspectives should be mandatory for all AI leaders.,A197_0,AIリーダーには複数の倫理的視点を理解することが必須であるべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+196,"Governance and regulation should match risk. If there is strong risk, there should be strong governance and regulation -  and vice versa.",A196_0,リスクが強い場合には強力なガバナンスと規制が必要だという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+196,"Governance and regulation should match risk. If there is strong risk, there should be strong governance and regulation -  and vice versa.",A196_1,リスクが低い場合にはガバナンスと規制も緩やかであるべきだという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+195,"We want to support AI companies, but only if they bring tangible benefits to ordinary people.",A195_0,AI企業を支援したいが、普通の人々に具体的な利益をもたらす場合に限るという要望がある,1_1,AI技術の持続可能性と社会的責任
+194,Our permission should be sought to use our data in AI systems.,A194_0,AIシステムでデータを使用する際には許可を求めるべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+193,We should be compensated for the use of our data in AI systems.,A193_0,AIシステムでのデータ使用に対して補償を求める要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+192,"Whether governments or corporations, the people who take decisions on AI should take responsibility for them.",A192_0,AIに関する決定を行う政府や企業がその責任を取るべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+191,"We should challenge statements like ""This is inevitable"".",A191_0,「これは避けられない」というような発言に対して挑戦するべきだという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+190,"There should be a principle of ""keeping humans in the loop"" when it comes to decision making and AI.",A190_0,AIの意思決定において人間を関与させる原則が必要だという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+189,One risk of AI is that it may lead to values lock-in ie it becomes impossible for our society's values and norms to evolve over time.,A189_0,AIが社会の価値観や規範の進化を妨げる可能性があることへの不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+188,The perspectives of plants and animals should be considered in future AI developments,A188_0,AI開発において植物や動物の視点を考慮すべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+187,We should use AI-supported deliberative democracy to renew/update the Universal Declaration of Human Rights as an underlying constitution,A187_0,AIを活用した熟議民主主義を用いて、世界人権宣言を更新すべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+186,We should split the conversation into (1) how to minimise/prevent harm to democracy and (2) how to maximise benefits to democracy,A186_0,民主主義への害を最小化・防止する方法について議論する必要があるという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+186,We should split the conversation into (1) how to minimise/prevent harm to democracy and (2) how to maximise benefits to democracy,A186_1,民主主義への利益を最大化する方法について議論する必要があるという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+185,Ethical philosophers who understand AI (e.g. Carissa Veliz) are a key part of the conversation,A185_0,AIを理解する倫理哲学者（例：Carissa Veliz）が議論の重要な部分を担っているという意見がある,1_1,AI技術の持続可能性と社会的責任
+184,"Should Phonons be part of future AI, this should be widely known",A184_0,Phononsを将来のAIに組み込むべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+184,"Should Phonons be part of future AI, this should be widely known",A184_1,Phononsの重要性が広く知られるべきだという意見がある,1_1,AI技術の持続可能性と社会的責任
+183,We are unlikely to ever agree on global AI regulation since we do not have World Government - competition is king!,A183_0,世界政府が存在しないため、グローバルなAI規制に合意することは難しいという不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+183,We are unlikely to ever agree on global AI regulation since we do not have World Government - competition is king!,A183_1,競争が優先されるため、AI規制に関する合意が難しいという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+182,"It's too late to think about AI replacing us or not, either we evolve or become extinct.",A182_0,AIが私たちを置き換えるかどうかを考えるのは遅すぎるという不満がある,1_2,AI技術の倫理と社会的影響に対する懸念
+182,"It's too late to think about AI replacing us or not, either we evolve or become extinct.",A182_1,進化するか絶滅するかの選択肢しかないという不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+180,"We need a de facto World Government initiated by G7, incorporating members from NATO, EU, the European Political Community and OECD",A180_0,G7による事実上の世界政府の設立を求める要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+180,"We need a de facto World Government initiated by G7, incorporating members from NATO, EU, the European Political Community and OECD",A180_1,NATO、EU、欧州政治共同体、OECDのメンバーを含む世界政府の設立を求める要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+181,We should make a Global Welfare State to mitigate the challenges posed by the turbulent civilisational transition.,A181_0,文明の移行期における課題を軽減するために、グローバル福祉国家を作るべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+179,We should Create Global AI Governance Agency (GAIGA) under the mandate of the G7 to oversee both GAIRA and the GAICA Consortium,A179_0,G7の下でGAIGAというグローバルAIガバナンス機関を設立するべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+179,We should Create Global AI Governance Agency (GAIGA) under the mandate of the G7 to oversee both GAIRA and the GAICA Consortium,A179_1,GAIGAがGAIRAとGAICAコンソーシアムを監督するべきだという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+178,We need to create one Superintelligence Programme managed by One-AI JV company to streamline AI control capabilities.,A178_0,AI制御能力を効率化するために、One-AI JV会社が管理するスーパーインテリジェンスプログラムを作成する必要があるという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+177,We should create One-AI Joint Venture Company to consolidate the most advanced AI development within a single entity.,A177_0,最先端のAI開発を一つの企業に統合するために、One-AI Joint Venture Companyを設立するべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+176,We need to create Global AI Control Agency (GAICA) to control AI development process not just reguation. Invite China & others.,A176_0,AI開発プロセスを管理するためにグローバルAIコントロール機関（GAICA）を設立する必要があるという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+176,We need to create Global AI Control Agency (GAICA) to control AI development process not just reguation. Invite China & others.,A176_1,AI規制だけでなく開発プロセスも管理する必要があるという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+145,Commandment 5.Create Global AI Control Agency (GAICA) to control AI development process not just reguation. Invite China & others.,A176_1,AI規制だけでなく開発プロセスも管理する必要があるという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+176,We need to create Global AI Control Agency (GAICA) to control AI development process not just reguation. Invite China & others.,A176_2,中国など他の国々をGAICAに招待するべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+175,We should create a Global AI Regulation Authority (GAIRA) to regulate the use of AI by transforming Global AI Partnership (GPAI),A175_0,AIの使用を規制するために、Global AI Partnership (GPAI)を変革してGlobal AI Regulation Authority (GAIRA)を設立するべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+174,We should undertake a comprehensive deep and fast reform of democracy,A174_0,民主主義の包括的で迅速な改革を行うべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+173,We need to adjust world governance towards a civilisational shift,A173_0,世界のガバナンスを文明の転換に向けて調整する必要があるという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+152,Setup permanent on-going support for AI Safety Summits as virtual monthly global conferences supported by a debating platform eg Telepresent,A152_0,AI安全サミットの恒久的な支援を求める要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+152,Setup permanent on-going support for AI Safety Summits as virtual monthly global conferences supported by a debating platform eg Telepresent,A152_1,AI安全サミットを毎月のグローバルな仮想会議として開催することを望む要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+152,Setup permanent on-going support for AI Safety Summits as virtual monthly global conferences supported by a debating platform eg Telepresent,A152_2,AI安全サミットを議論プラットフォーム（例：Telepresent）でサポートすることを望む要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+172,"We need to discuss how politics , government and law will be affected by AI. I am a former Member of Parliament.",A172_0,AIが政治に与える影響について議論する必要がある,1_2,AI技術の倫理と社会的影響に対する懸念
+172,"We need to discuss how politics , government and law will be affected by AI. I am a former Member of Parliament.",A172_1,AIが政府の運営に与える影響について議論する必要がある,1_2,AI技術の倫理と社会的影響に対する懸念
+172,"We need to discuss how politics , government and law will be affected by AI. I am a former Member of Parliament.",A172_2,AIが法律に与える影響について議論する必要がある,1_2,AI技術の倫理と社会的影響に対する懸念
+171,How will AI and its spin-offs affect politics and law? Our current systems are not sufficient. I am a former Member of Parliament.,A171_0,AIとその派生技術が政治や法律にどのような影響を与えるかについての不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+171,How will AI and its spin-offs affect politics and law? Our current systems are not sufficient. I am a former Member of Parliament.,A171_1,現在の政治・法律システムがAI技術に対応するには不十分であるという不満がある,1_2,AI技術の倫理と社会的影響に対する懸念
+170,People fear what they do not understand. Developing a better comprehensive narrative on how AI decisions are made is a must.,A170_0,AIの決定がどのように行われるかについての理解が不足していることへの不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+170,People fear what they do not understand. Developing a better comprehensive narrative on how AI decisions are made is a must.,A170_1,AIの決定プロセスに関する包括的な説明を求める要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+168,Governments cannot fight against this huge technological revolution. They must instead adapt current systems to the new technological order.,A168_0,政府はこの巨大な技術革命に対抗することはできないという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+168,Governments cannot fight against this huge technological revolution. They must instead adapt current systems to the new technological order.,A168_1,政府は現行のシステムを新しい技術秩序に適応させるべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+167,AI companions should not be used as a replacement strategy for real human contact in our fight against loneliness and isolation.,A167_0,AIコンパニオンを孤独や孤立対策として人間の接触の代替にすべきではないという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+166,Regulators must establish minimum standards of explainability ('black box' problem) and ban the release of new AI tools that do not comply.,A166_0,AIツールの説明可能性に関する最低基準を規制当局が確立する必要があるという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+166,Regulators must establish minimum standards of explainability ('black box' problem) and ban the release of new AI tools that do not comply.,A166_1,説明可能性の基準を満たさない新しいAIツールのリリースを禁止するべきだという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+120,We need quality regulation that stops abuses and dangerous developments but is fast and does not prevent new ideas and innovation.,A120_0,質の高い規制が必要だという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+120,We need quality regulation that stops abuses and dangerous developments but is fast and does not prevent new ideas and innovation.,A120_1,規制が濫用や危険な発展を防ぐことを望む意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+120,We need quality regulation that stops abuses and dangerous developments but is fast and does not prevent new ideas and innovation.,A120_2,規制が迅速であることを望む要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+120,We need quality regulation that stops abuses and dangerous developments but is fast and does not prevent new ideas and innovation.,A120_3,規制が新しいアイデアやイノベーションを妨げないことを望む要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+165,"As we expand AI, we collectively redefine what counts as knowledge in our societies: a huge step that needs much more careful reflection",A165_0,AIの拡大に伴い、社会における知識の定義が再構築されることへの不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+165,"As we expand AI, we collectively redefine what counts as knowledge in our societies: a huge step that needs much more careful reflection",A165_1,AIの拡大に関して、より慎重な考察が必要だという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+164,"Like most technologies that are powerful but dangerous if used incorrectly, users should share responsibility with designers for AI safety.",A164_0,AIの安全性について、ユーザーと設計者が責任を共有すべきだという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+137,It is naive to expect that an arms race for AI supremacy should not be allowed. It is already happening at an accelerating pace.,A137_0,AIの覇権を巡る競争が許されるべきではないという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+137,It is naive to expect that an arms race for AI supremacy should not be allowed. It is already happening at an accelerating pace.,A137_1,AIの覇権競争がすでに加速して進行していることへの不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+151,"It is important that AI governance does not lead to confrontation between states, AI should be above politics.",A151_0,AIガバナンスが国家間の対立を引き起こさないようにすることが重要だという意見がある,1_1,AI技術の持続可能性と社会的責任
+151,"It is important that AI governance does not lead to confrontation between states, AI should be above politics.",A151_1,AIは政治の上にあるべきだという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+153,Is AI really the future or is something too overhyped??,A153_0,AIが本当に未来の技術なのか、それとも過剰に評価されているのかという不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+159,"Inter-state/national AI forums should focus first and foremost on applications in defense and warfare, before moving on to other concerns.",A159_0,AIフォーラムはまず防衛と戦争への応用に焦点を当てるべきだという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+160,More attention should be given to risks in psychological exploitation of consumers and civilians by AI developers and users.,A160_0,AI開発者やユーザーによる消費者や市民の心理的搾取のリスクにもっと注意を払うべきだという要望がある,1_2,AI技術の倫理と社会的影響に対する懸念
+163,Artificial general intelligence (AGI) should make easier life easier but we should aim to have a human-in-the-loop controlling AI.,A163_0,AGIが生活をより簡単にするべきだという要望がある,1_1,AI技術の持続可能性と社会的責任
+163,Artificial general intelligence (AGI) should make easier life easier but we should aim to have a human-in-the-loop controlling AI.,A163_1,AIを人間が制御するための人間参加型のシステムを目指すべきだという意見がある,1_2,AI技術の倫理と社会的影響に対する懸念
+162,"I propose AI should be folded into a global-scale Open Knowledge Initiative, similar to Open Science, but broader in scope.",A162_0,AIをグローバル規模のオープンナレッジイニシアティブに組み込むべきだという提案がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+161,"Use of publicly available data to train AI is inequitable, and will require copyright reform to address.",A161_0,AIの訓練に公的に利用可能なデータを使用することが不公平であるという不満がある,1_2,AI技術の倫理と社会的影響に対する懸念
+161,"Use of publicly available data to train AI is inequitable, and will require copyright reform to address.",A161_1,AIの訓練に関する著作権改革が必要だという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+158,AI regulation will be contingent on better regulation of mass data collection.,A158_0,AIの規制は大量データ収集の規制が改善されることに依存しているという意見がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+157,We have reached a point where technology is evolving much faster than humanity and human societies can handle,A157_0,技術の進化が人類や社会の対応能力を超えていることへの不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+156,"My biggest worry is what entities can be trusted with controlling such powerful technology, especially given the interests of Zuck, Musk etc",A156_0,強力な技術を管理する信頼できる組織がどこなのかという不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+156,"My biggest worry is what entities can be trusted with controlling such powerful technology, especially given the interests of Zuck, Musk etc",A156_1,ZuckやMuskなどの個人の利益に対する不安がある,1_2,AI技術の倫理と社会的影響に対する懸念
+154,"Local CSOs need long term, predictable funding for capacity and consultation to ensure global majority views are meaningfully represented",A154_0,地域の市民社会組織が長期的で予測可能な資金を必要としているという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+154,"Local CSOs need long term, predictable funding for capacity and consultation to ensure global majority views are meaningfully represented",A154_1,地域の市民社会組織が能力向上と相談のための資金を必要としているという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+154,"Local CSOs need long term, predictable funding for capacity and consultation to ensure global majority views are meaningfully represented",A154_2,地域の市民社会組織がグローバルマジョリティの意見を意味のある形で代表するための支援を必要としているという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+150,Command 10.	Create a Global Welfare State to mitigate the challenges posed by the turbulent civilisational transition.,A150_0,文明の移行期における課題を軽減するために、グローバルな福祉国家を創設してほしいという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+149,"Command 9.Create a de facto World Government initiated by G7, incorporating members from NATO, EU, the European Political Community and OECD",A149_0,G7が主導する事実上の世界政府を創設するという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+149,"Command 9.Create a de facto World Government initiated by G7, incorporating members from NATO, EU, the European Political Community and OECD",A149_1,NATO、EU、欧州政治共同体、OECDのメンバーを含めるという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+147,Commandment 7.Create one Superintelligence Programme managed by One-AI JV company to streamline AI control capabilities.,A147_0,Superintelligence Programmeを管理するOne-AI JV会社を設立してAI制御能力を効率化するという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+146,Commandment 6.Create One-AI Joint Venture Company to consolidate the most advanced AI development within a single entity.,A146_0,最先端のAI開発を一つの企業に統合するために、One-AI共同事業会社を設立するという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+145,Commandment 5.Create Global AI Control Agency (GAICA) to control AI development process not just reguation. Invite China & others.,A145_0,AI開発プロセスを管理するためのグローバルAIコントロール機関（GAICA）を設立してほしいという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+145,Commandment 5.Create Global AI Control Agency (GAICA) to control AI development process not just reguation. Invite China & others.,A145_2,中国など他国を招待してグローバルな協力体制を築いてほしいという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点
+144,Commmandment 4. Create Global AI Regulation Authority (GAIRA) to regulate the use of AI by transforming Global AI Partnership (GPAI),A144_0,AIの使用を規制するために、Global AI Partnership (GPAI)を変革してGlobal AI Regulation Authority (GAIRA)を設立するという要望がある,1_3,AI技術の倫理とグローバルガバナンスに関する視点

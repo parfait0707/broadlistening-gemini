@@ -1,0 +1,14 @@
+{
+    "name": "Recursive Public, Agenda Setting",
+    "question": "人類が人工知能を開発・展開する上で、最優先すべき課題は何でしょうか？",
+    "input": "example-polis",
+    "model": "gpt-4o",
+    "extraction": {
+      "workers": 3,
+      "limit": 200
+    },
+    "hierarchical_clustering": {
+      "cluster_nums": [3, 6, 12, 24]
+    },
+    "intro": "このAI生成レポートは、Recursive Publicチームが実施したPolis協議のデータに基づいています。"
+  }

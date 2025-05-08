@@ -1,0 +1,65 @@
+{
+    // --- トップレベル設定 ---
+    "name": "デフォルト実行名", // 実行やレポートの名前
+    "question": "ここに対象となる問いを入力してください", // 分析対象の問い（必須）
+    "input": "your_input_file_name", // inputs/ ディレクトリにあるCSVファイル名（拡張子なし、必須）
+    "model": "gpt-4o", // パイプライン全体で使用するデフォルトのLLMモデル名
+    "intro": "ここにレポートの導入文を入力してください。", // レポートの冒頭に表示される説明文
+    "is_pubcom": true, // 元コメントを含む詳細CSVを出力するかどうか (true/false)
+  
+    // --- ステップごとの設定 ---
+    // specs.json で定義された各ステップ名（例: "extraction", "embedding"）をキーとして設定できます。
+    // 各ステップ内の設定は、specs.json の "options" で定義されたキーや、
+    // use_llm: true の場合は "prompt", "model", "prompt_file" を設定できます。
+  
+    "extraction": {
+      // "workers": 1, // 意見抽出の並列ワーカー数 (デフォルトは specs.json 参照)
+      // "limit": 1000, // 処理する入力コメント数の上限 (デフォルトは specs.json 参照)
+      // "properties": [], // 入力CSVから追加で読み込むカラム名のリスト (例: ["user_attribute1", "user_attribute2"])
+      // "categories": { // LLMによる追加カテゴリ分類の定義
+      //   "sentiment": {
+      //     "positive": "肯定的な意見",
+      //     "negative": "否定的な意見",
+      //     "neutral": "中立的な意見"
+      //   }
+      // },
+      // "category_batch_size": 5, // カテゴリ分類時のバッチサイズ (デフォルトは specs.json 参照)
+      // "prompt": "ここにカスタム抽出プロンプトを記述 (なければ prompts/extraction/default.txt を使用)",
+      // "model": "gpt-4o" // 抽出ステップで使用するLLMモデル (なければトップレベルの model を使用)
+      // "prompt_file": "custom_extraction_prompt" // prompts/extraction/ にあるカスタムプロンプトファイル名（拡張子なし）
+    },
+  
+    "embedding": {
+      // "model": "text-embedding-3-large" // 埋め込みに使用するモデル (デフォルトは specs.json 参照)
+    },
+  
+    "hierarchical_clustering": {
+      // "cluster_nums": [3, 6, 12] // 生成する階層クラスターの数のリスト (デフォルトは specs.json 参照)
+    },
+  
+    "hierarchical_initial_labelling": {
+      // "sampling_num": 3, // 初期ラベリングで各クラスターからサンプリングする意見数 (デフォルトは specs.json 参照)
+      // "workers": 1, // 初期ラベリングの並列ワーカー数 (デフォルトは specs.json 参照)
+      // "prompt": "ここにカスタム初期ラベリングプロンプトを記述",
+      // "model": "gpt-4o" // 初期ラベリングで使用するLLMモデル
+    },
+  
+    "hierarchical_merge_labelling": {
+      // "sampling_num": 3, // マージラベリングで各クラスターからサンプリングする意見数 (デフォルトは specs.json 参照)
+      // "workers": 1, // マージラベリングの並列ワーカー数 (デフォルトは specs.json 参照)
+      // "prompt": "ここにカスタムマージラベリングプロンプトを記述",
+      // "model": "gpt-4o" // マージラベリングで使用するLLMモデル
+    },
+  
+    "hierarchical_overview": {
+      // "prompt": "ここにカスタム概要生成プロンプトを記述",
+      // "model": "gpt-4o" // 概要生成で使用するLLMモデル
+    },
+  
+    "hierarchical_aggregation": {
+      // "hidden_properties": { // 最終結果で非表示にしたいプロパティと値の組み合わせ
+      //   "user_attribute1": ["test_user", "anonymous"]
+      // }
+      // "sampling_num": 5000 // (現状未使用？ デフォルトは specs.json 参照)
+    }
+  }
